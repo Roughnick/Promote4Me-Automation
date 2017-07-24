@@ -1,0 +1,14 @@
+C:\Users\jgstu\Projects\4MELabs\Promote4Me\Promote4Me-Automation\Promote4Me Automation\Promote4Me Automation\obj\Debug\Promote4Me Automation.csprojResolveAssemblyReference.cache
+C:\Users\jgstu\Projects\4MELabs\Promote4Me\Promote4Me-Automation\Promote4Me Automation\Promote4Me Automation\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jgstu\Projects\4MELabs\Promote4Me\Promote4Me-Automation\Promote4Me Automation\Promote4Me Automation\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jgstu\Projects\4MELabs\Promote4Me\Promote4Me-Automation\Promote4Me Automation\Promote4Me Automation\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jgstu\Projects\4MELabs\Promote4Me\Promote4Me-Automation\Promote4Me Automation\Promote4Me Automation\bin\Debug\Promote4Me Automation.dll
+C:\Users\jgstu\Projects\4MELabs\Promote4Me\Promote4Me-Automation\Promote4Me Automation\Promote4Me Automation\bin\Debug\Promote4Me Automation.pdb
+C:\Users\jgstu\Projects\4MELabs\Promote4Me\Promote4Me-Automation\Promote4Me Automation\Promote4Me Automation\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\jgstu\Projects\4MELabs\Promote4Me\Promote4Me-Automation\Promote4Me Automation\Promote4Me Automation\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\jgstu\Projects\4MELabs\Promote4Me\Promote4Me-Automation\Promote4Me Automation\Promote4Me Automation\bin\Debug\WebDriver.dll
+C:\Users\jgstu\Projects\4MELabs\Promote4Me\Promote4Me-Automation\Promote4Me Automation\Promote4Me Automation\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\jgstu\Projects\4MELabs\Promote4Me\Promote4Me-Automation\Promote4Me Automation\Promote4Me Automation\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\jgstu\Projects\4MELabs\Promote4Me\Promote4Me-Automation\Promote4Me Automation\Promote4Me Automation\bin\Debug\WebDriver.xml
+C:\Users\jgstu\Projects\4MELabs\Promote4Me\Promote4Me-Automation\Promote4Me Automation\Promote4Me Automation\obj\Debug\Promote4Me Automation.dll
+C:\Users\jgstu\Projects\4MELabs\Promote4Me\Promote4Me-Automation\Promote4Me Automation\Promote4Me Automation\obj\Debug\Promote4Me Automation.pdb
