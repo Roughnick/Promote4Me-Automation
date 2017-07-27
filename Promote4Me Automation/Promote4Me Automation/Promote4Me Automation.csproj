@@ -52,8 +52,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="PageObjects\Intro\IntroElementMap.cs" />
-    <Compile Include="PageObjects\Intro\IntroPage.cs" />
+    <Compile Include="PageObjects\SignUp\SignUpElementMap.cs" />
+    <Compile Include="PageObjects\SignUp\SignUpPage.cs" />
     <Compile Include="PageObjects\PageObject.cs" />
     <Compile Include="Tests\UnitTest1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

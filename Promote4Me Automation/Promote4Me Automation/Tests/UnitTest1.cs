@@ -2,7 +2,8 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
-using Promote4Me_Automation.PageObjects.IntroPage;
+using Promote4Me_Automation.PageObjects.SignUp;
+using System.IO;
 
 namespace Promote4Me_Automation.Tests
 {
@@ -14,14 +15,15 @@ namespace Promote4Me_Automation.Tests
         [AssemblyInitialize]
         public static void SetUp(TestContext context)
         {
-            Driver = new ChromeDriver(@"C:\Users\jgstu\Projects\4MELabs\Promote4Me\Promote4Me-Automation\chromedriver_win32");
+            var path = Path.GetFullPath("../chromedriver_win32");
+            Driver = new ChromeDriver(path);
         }
 
         [TestMethod]
         public void TestMethod1()
         {
-            var introPage = new IntroPage(Driver, "https://promote4.me/");
-            introPage.Navigate();
+            var signUpPage = new SignUpPage(Driver);
+            signUpPage.Navigate("https://promote4.me/");
         }
     }
 }

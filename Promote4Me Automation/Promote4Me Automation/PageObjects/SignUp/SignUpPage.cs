@@ -5,12 +5,12 @@ using System.Text;
 using System.Threading.Tasks;
 using OpenQA.Selenium;
 
-namespace Promote4Me_Automation.PageObjects.IntroPage
+namespace Promote4Me_Automation.PageObjects.SignUp
 {
-    public class IntroPage : PageObject
+    public class SignUpPage : PageObject
     {
         public IntroElementMap Map => new IntroElementMap();
 
-        public IntroPage(IWebDriver driver, string baseUrl) : base(driver, baseUrl) { }
+        public SignUpPage(IWebDriver driver) : base(driver) { }
     }
 }

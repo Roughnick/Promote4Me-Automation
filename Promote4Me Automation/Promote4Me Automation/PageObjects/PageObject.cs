@@ -10,17 +10,15 @@ namespace Promote4Me_Automation.PageObjects
     public class PageObject
     {
         protected IWebDriver _driver;
-        protected string _baseUrl;
 
-        protected PageObject(IWebDriver driver, string baseUrl)
+        protected PageObject(IWebDriver driver)
         {
             _driver = driver;
-            _baseUrl = baseUrl;
         }
 
-        public void Navigate()
+        public void Navigate(string siteUrl)
         {
-            _driver.Url = _baseUrl;
+            _driver.Url = siteUrl;
         }
     }
 }
